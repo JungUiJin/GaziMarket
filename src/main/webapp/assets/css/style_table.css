@@ -1,0 +1,30 @@
+@charset "EUC-KR";
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.table {
+	align:center;
+	text-align:center;
+}
+table{
+    text-align: center;
+    border : 2px solid gray;
+}
+tr{
+    text-align: center;
+    border : 2px solid gray;
+}
+tr th{
+    border : 1px solid gray;
+    background-color: lightgreen;
+}
+td{
+    border : 1px solid gray;
+    width: 7%;
+}
+.cls1{
+    font-size: 40px;
+    text-align: center;
+}

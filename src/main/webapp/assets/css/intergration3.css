@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+.mpprofile {
+	display:inline-block;
+	font-size:20px;
+	color:black;
+	text-align:left;
+	padding-top:35px;
+}
+
+.mppro {
+	display:inline-block;
+	vertical-align:top;
+	padding-top:45px;
+}
+
+.mprofile2 {
+	display:inline-block;
+	margin-left:15%;
+	font-size:20px;
+	color:black;
+	text-align:left;
+}
+
+.mpprofilebutton {
+	font-size:20px;
+	margin-left:40%;
+}
+
+.mpbtn {
+	width:120px;
+	color:white;
+	background-color:black;
+}
+
+.v-line {
+	border-left:1px solid black;
+	display:inline-block;
+	height:50%;
+	left:45%;
+	top:45%;
+	position:absolute;
+}
+
+.mpinfo1 {
+	display:inline-block;
+	text-align:left;
+	margin-right:15%;
+}
+
+.mpinfo2 {
+	display:inline-block;
+	text-align:left;
+}
+
+.mptable {
+	width:450px;
+	font-size:20px;
+	color:black;
+	border-top-style:solid;
+	border-right-style:none;
+	border-bottom-style:solid;
+	border-left-style:none;
+}
+
+.mptable2 {
+	width:700px;
+	font-size:20px;
+	color:black;
+	border-top-style:solid;
+	border-right-style:none;
+	border-bottom-style:solid;
+	border-left-style:none;
+}
+
+.mptableth {
+	text-align:center;
+	color:black;
+	background-color:#E3E3E3;
+	font-size:20px;
+	border-bottom-style:solid;
+}
+
+.mptabletd {
+	color:black;
+	text-align:center;
+	border-bottom-style:solid;
+}

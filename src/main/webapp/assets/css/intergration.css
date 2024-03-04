@@ -1,0 +1,192 @@
+@charset "UTF-8";
+
+.selectmodule {
+	width:15%;
+	font-size:25px;
+	color:black;
+	margin-left:25px;
+}
+
+.searchmodule {
+	width:30%;
+	font-size:25px;
+	color:black;
+	margin-top:40px;
+	text-align:left;
+}
+
+.searchmodule2 {
+	width:25%;
+	font-size:20px;
+	color:black;
+	margin-top:40px;
+	text-align:left;
+}
+.searchmodule3 {
+	width:10%;
+	font-size:20px;
+	color:black;
+	margin-top:40px;
+	text-align:left;
+}
+
+.searchbutton {
+	width:10%;
+	font-size:25px;
+	color:black;
+}
+
+.photomodule {
+	width:20%;
+	font-size:20px;
+	color:black;
+	text-align:left;
+	margin-left:5%;
+}
+
+.buttonmodule {
+	width:15%;
+	font-size:25px;
+	color:white;
+	margin-left:10%;
+	background-color:black;
+}
+
+.buttonmodule2 {
+	width:15%;
+	font-size:25px;
+	color:white;
+	background-color:black;
+}
+
+.tablemodule {
+	width:50%;
+	margin-left:25%;
+}
+
+.tabledmodule {
+	text-align:left;
+	font-size:20px;
+	color:black;
+	padding:5px;
+	padding-left:15px;
+	background-color:#D3D3D3;
+}
+
+.tablehead {
+	font-size:25px;
+	font-weight: bold;
+}
+
+.boardclass {
+	font-size:25px;
+	color:white;
+	margin:10px;
+	background-color:black;
+}
+
+.tableprice {
+	font-weight: bold;
+}
+
+.trad {
+	width:50%;
+	height:150px;
+	border:solid 1px rgba(0, 0, 0, 1);
+	margin-left:25%;
+	padding:15px;
+}
+
+.tradtr {
+	border-bottom: 0.5pt solid black;
+}
+
+.interprofile {
+	margin-right:0%;
+	margin-bottom:20px;
+}
+
+.profile {
+	display:inline-block;
+	vertical-align:top;
+}
+
+.profiletext {
+	display:inline-block;
+	font-size:20px;
+	text-align:left;
+	color:black;
+}
+
+.profiletext2 {
+	display:inline-block;
+	margin-left:15%;
+	font-size:20px;
+	color:black;
+	text-align:left;
+}
+
+.profilebutton {
+	font-size:20px;
+	margin-left:40%;
+}
+
+.probtn1 {
+	width:80px;
+	color:white;
+	background-color:black;
+}
+
+.probtn2 {
+	width:80px;
+	color:black;
+}
+
+.tradalign {
+	width:50%;
+	margin-left:25%;
+	color:black;
+}
+
+.comment {
+	padding:20px;
+	background-color:gray;
+}
+
+.commentbtn {
+	font-size:25px;
+	color:black;
+	width:80px;
+}
+
+.inquiryh {
+	display:inline-block;
+	margin-right:25%;
+}
+
+.inquiryh1 {
+	display:inline-block;
+}
+
+.inquirybutton {
+	font-size:25px;
+	color:white;
+	background-color:black;
+	width:150px;
+}
+
+.inquiryth {
+	text-align:center;
+	color:black;
+	background-color:#E3E3E3;
+	font-size:20px;
+}
+
+.inquirytd {
+	color:black;
+}
+
+.mptable {
+	font-size:20px;
+	color:black;
+}
